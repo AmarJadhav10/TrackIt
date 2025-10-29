@@ -1,28 +1,23 @@
-# Use the official .NET SDK as a base image
+# Use .NET 6 SDK to build the app
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-
-# Set the working directory in the container
-WORKDIR /app
+WORKDIR /src
 
 # Copy the .csproj file and restore dependencies
-COPY TrackIt-API/TrackIt-API.csproj ./TrackIt-API/
+COPY TrackItAPI/TrackItAPI.csproj TrackItAPI/
+RUN dotnet restore "TrackItAPI/TrackItAPI.csproj"
 
-# Restore the .NET dependencies
-RUN dotnet restore ./TrackIt-API/TrackIt-API.csproj
-
-# Copy the rest of the code
+# Copy everything else and build
 COPY . .
+WORKDIR "/src/TrackItAPI"
+RUN dotnet build "TrackItAPI.csproj" -c Release -o /app/build
 
-# Publish the application to the /out folder in the container
-RUN dotnet publish ./TrackIt-API/TrackIt-API.csproj -c Release -o /app/publish
+# Publish the app
+FROM build AS publish
+RUN dotnet publish "TrackItAPI.csproj" -c Release -o /app/publish
 
-# Set the base image for the final image and copy the published app
-FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+# Final runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS final
 WORKDIR /app
-COPY --from=build /app/publish .
-
-# Expose the port
+COPY --from=publish /app/publish .
 EXPOSE 80
-
-# Define the entry point for the application
-ENTRYPOINT ["dotnet", "TrackIt-API.dll"]
+ENTRYPOINT ["dotnet", "TrackItAPI.dll"]
