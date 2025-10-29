@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\trackitapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:trackitapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IssuesController.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Controllers\\IssuesController.cs",
               "RelativeDocumentMoniker": "Controllers\\IssuesController.cs",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "Controllers\\IssuesController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwBkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:54:58.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T18:54:58.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:31:07.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T18:31:07.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TrackItAPI.http",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\TrackItAPI.http",
               "RelativeDocumentMoniker": "TrackItAPI.http",
@@ -101,12 +99,11 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAUwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T18:17:00.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T18:17:00.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -114,25 +111,24 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T17:29:52.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T17:29:52.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T17:29:39.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Issue.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Models\\Issue.cs",
               "RelativeDocumentMoniker": "Models\\Issue.cs",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "Models\\Issue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:33:50.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T18:33:50.105Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T19:03:03.963Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T19:03:03.963Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T18:20:45.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T18:20:45.65Z"
             },
             {
               "$type": "Document",
