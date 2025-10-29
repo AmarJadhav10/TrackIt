@@ -1,4 +1,3 @@
-
 # Use the official image for .NET SDK to build the app
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
 WORKDIR /app
