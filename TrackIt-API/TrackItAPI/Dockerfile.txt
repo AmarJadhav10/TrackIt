@@ -1,0 +1,22 @@
+# Use the official image for .NET SDK to build the app
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+WORKDIR /app
+EXPOSE 80
+
+# Copy the published app
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /src
+COPY ["TrackIt-API/TrackIt-API.csproj", "TrackIt-API/"]
+RUN dotnet restore "TrackIt-API/TrackIt-API.csproj"
+COPY . .
+WORKDIR "/src/TrackIt-API"
+RUN dotnet build "TrackIt-API.csproj" -c Release -o /app/build
+
+FROM build AS publish
+RUN dotnet publish "TrackIt-API.csproj" -c Release -o /app/publish
+
+# Final stage: copy the build files and run the app
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "TrackIt-API.dll"]
