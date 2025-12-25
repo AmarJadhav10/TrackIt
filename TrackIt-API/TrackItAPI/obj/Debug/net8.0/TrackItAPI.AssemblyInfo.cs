@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrackItAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eacbcf7d8e331b8282a1f65cf5f979258654f95e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa678ace37604ff454bc0c2f29ef72522014a83a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrackItAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrackItAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

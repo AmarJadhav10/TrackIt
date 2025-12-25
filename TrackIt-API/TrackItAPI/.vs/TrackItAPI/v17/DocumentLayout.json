@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:controllers\\issuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29F46A43-1CBB-4E9A-AF78-9CED08F57B10}|TrackItAPI.csproj|c:\\trackit\\trackit\\trackit-api\\trackitapi\\trackitapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,23 +50,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "IssuesController.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Controllers\\IssuesController.cs",
               "RelativeDocumentMoniker": "Controllers\\IssuesController.cs",
               "ToolTip": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Controllers\\IssuesController.cs",
               "RelativeToolTip": "Controllers\\IssuesController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBkAAAAbAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwBkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T18:54:58.928Z"
+              "WhenOpened": "2025-10-29T18:54:58.928Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -78,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TrackItAPI.http",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\TrackItAPI.http",
               "RelativeDocumentMoniker": "TrackItAPI.http",
@@ -86,12 +87,11 @@
               "RelativeToolTip": "TrackItAPI.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-29T18:21:49.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T18:21:49.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -99,11 +99,12 @@
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAUwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-29T18:17:00.98Z"
+              "WhenOpened": "2025-10-29T18:17:00.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -115,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -128,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Issue.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Models\\Issue.cs",
               "RelativeDocumentMoniker": "Models\\Issue.cs",
@@ -140,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
@@ -152,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\TrackIt\\TrackIt\\TrackIt-API\\TrackItAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

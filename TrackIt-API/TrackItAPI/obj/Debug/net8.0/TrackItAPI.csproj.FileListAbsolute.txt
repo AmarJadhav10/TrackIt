@@ -19,11 +19,6 @@ C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\TrackItAPI.MvcApplica
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\TrackItAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets.development.json
-C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets\msbuild.TrackItAPI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.TrackItAPI.props
-C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TrackItAPI.props
-C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TrackItAPI.props
-C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets.pack.json
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\scopedcss\bundle\TrackItAPI.styles.css
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\TrackItAPI.csproj.Up2Date
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\TrackItAPI.dll
@@ -168,3 +163,15 @@ C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\bin\Debug\net8.0\runtimes\win\lib\net6
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\TrackItAPI.sourcelink.json
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\bin\Debug\net8.0\TrackItAPI.staticwebassets.endpoints.json
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\bin\Debug\net8.0\AutoMapper.dll
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\TrackIt\TrackIt\TrackIt-API\TrackItAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
